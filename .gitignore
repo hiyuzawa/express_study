@@ -1,4 +1,3 @@
-/node_modules
-/myapp/node_modules
+node_modules/
 /sample
-/myapp/npm-debug.log
+npm-debug.log
